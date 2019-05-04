@@ -1,0 +1,194 @@
+$lessBlueish: #909ab7;
+$blueish: #5b6679;
+$whitish: #f9f9f5;
+$light-grey: #3d3d3d;
+$main-grey: #262626;
+
+.projects-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.project-wrapper {
+  background: $main-grey;
+  color: $whitish;
+  margin: 1.5vw;
+  width: 35vw;
+  height: fit-content;
+  height: 60vw;
+  padding: 2vw;
+  border-radius: 60px 0 60px 0;
+  box-shadow: 0px 0px 33px -1px rgba(38, 38, 38, 0.67);
+  h2 {
+    text-align: center;
+    font-size: 3vw;
+  }
+
+  .icon-wrapper {
+    display: flex;
+    justify-content: center;
+    padding: 1vw;
+    a {
+      margin: 0 1vw;
+      border-radius: 100%;
+      width: 7vw;
+      height: 7vw;
+      font-size: 1.5vw;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-decoration: none;
+      color: $whitish;
+      transition: 0.7s;
+      box-shadow: 0px 0px 33px -1px rgba(38, 38, 38, 0.67);
+      img {
+        width: 105%;
+      }
+      &:hover {
+        transform: scale(1.1);
+      }
+    }
+    .demo {
+      background: $whitish;
+      color: $main-grey;
+    }
+  }
+  p {
+    font-size: 1.5vw;
+  }
+  ul {
+    font-size: 2.3vw;
+    list-style: circle;
+    display: flex;
+    flex-direction: column;
+    padding: 0 1vw;
+    margin: 0;
+    li {
+      font-size: 1.3vw;
+      margin: 1vw 0;
+    }
+  }
+}
+
+// iPhone 6/7/8
+@media screen and (max-width: 375px) {
+  .projects-container {
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+  }
+  .project-wrapper {
+    width: 90vw;
+    height: 70vh;
+    h2 {
+      font-size: 7vw;
+    }
+    p {
+      font-size: 4vw;
+      padding: 0 4vw;
+    }
+    ul {
+      max-width: 100%;
+      font-size: 3vw;
+      list-style: circle;
+      display: flex;
+      flex-direction: column;
+      padding: 0 4vw;
+      margin: 0;
+      li {
+        font-size: 3vw;
+        margin: 1vw 0;
+      }
+    }
+  }
+  .icon-wrapper {
+    a.project-icon {
+      width: 15vw;
+      height: 15vw;
+      font-size: 3.5vw;
+    }
+  }
+}
+
+// iPhone 6/7/8 Plus
+@media screen and (max-width: 414px) {
+  .projects-container {
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+  }
+  .project-wrapper {
+    width: 90vw;
+    height: 70vh;
+    h2 {
+      font-size: 7vw;
+    }
+    p {
+      font-size: 4vw;
+      padding: 0 4vw;
+    }
+    ul {
+      max-width: 100%;
+      font-size: 3vw;
+      list-style: circle;
+      display: flex;
+      flex-direction: column;
+      padding: 0 4vw;
+      margin: 0;
+      li {
+        font-size: 3vw;
+        margin: 1vw 0;
+      }
+    }
+  }
+  .icon-wrapper {
+    a.project-icon {
+      width: 15vw;
+      height: 15vw;
+      font-size: 3.5vw;
+    }
+  }
+}
+
+// iPad
+
+@media screen and (max-width: 768px) and (max-height: 1024px) {
+  .projects-container {
+    flex-direction: column;
+    align-items: center;
+    height: fit-content;
+  }
+  .project-wrapper {
+    width: 90vw;
+    height: fit-content;
+    padding-bottom: 5vw;
+    h2 {
+      font-size: 7vw;
+    }
+    p {
+      font-size: 4vw;
+      padding: 0 4vw;
+    }
+    ul {
+      max-width: 100%;
+      font-size: 3vw;
+      list-style: circle;
+      display: flex;
+      flex-direction: column;
+      padding: 0 4vw;
+      margin: 0;
+      li {
+        font-size: 3vw;
+        margin: 1vw 0;
+      }
+    }
+  }
+  .icon-wrapper {
+    a.project-icon {
+      width: 15vw;
+      height: 15vw;
+      font-size: 3.5vw;
+    }
+  }
+}
