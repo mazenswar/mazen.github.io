@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53c0ba16161d245730e8c44b8cf170a3",
+    "revision": "e42453722b60d5a091e801de88a359d5",
     "url": "/mazen.portfolio/index.html"
   },
   {
-    "revision": "6ed75d3c612f7c55a44e",
+    "revision": "245f7383f61b3c1bd727",
     "url": "/mazen.portfolio/static/css/main.c4fd5ef2.chunk.css"
   },
   {
-    "revision": "71dd08e7c6cc486cddcd",
-    "url": "/mazen.portfolio/static/js/2.a498486d.chunk.js"
+    "revision": "ad24adeae11e8d067b61",
+    "url": "/mazen.portfolio/static/js/2.70b0d40d.chunk.js"
   },
   {
-    "revision": "6ed75d3c612f7c55a44e",
-    "url": "/mazen.portfolio/static/js/main.58da84e2.chunk.js"
+    "revision": "245f7383f61b3c1bd727",
+    "url": "/mazen.portfolio/static/js/main.06508d15.chunk.js"
   },
   {
     "revision": "16a89ebc4e875e32b6ad",
