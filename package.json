@@ -1,7 +1,9 @@
 {
+  "homepage": "http://mazenswar.github.io/mazen.portfolio",
   "name": "mazen-portfolio",
   "version": "0.1.0",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -9,6 +11,8 @@
     "react-scripts": "3.0.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "precommit": "NODE_ENV=production lint-staged",
     "build": "react-scripts build",
