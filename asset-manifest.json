@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mazen.portfolio/static/css/main.c4fd5ef2.chunk.css",
+    "main.js": "/mazen.portfolio/static/js/main.32d0310f.chunk.js",
+    "main.js.map": "/mazen.portfolio/static/js/main.32d0310f.chunk.js.map",
+    "runtime~main.js": "/mazen.portfolio/static/js/runtime~main.66ee0805.js",
+    "runtime~main.js.map": "/mazen.portfolio/static/js/runtime~main.66ee0805.js.map",
+    "static/js/2.a498486d.chunk.js": "/mazen.portfolio/static/js/2.a498486d.chunk.js",
+    "static/js/2.a498486d.chunk.js.map": "/mazen.portfolio/static/js/2.a498486d.chunk.js.map",
+    "index.html": "/mazen.portfolio/index.html",
+    "precache-manifest.6a8e5be41d3c71b0c1838a522e1e4f92.js": "/mazen.portfolio/precache-manifest.6a8e5be41d3c71b0c1838a522e1e4f92.js",
+    "service-worker.js": "/mazen.portfolio/service-worker.js",
+    "static/css/main.c4fd5ef2.chunk.css.map": "/mazen.portfolio/static/css/main.c4fd5ef2.chunk.css.map",
+    "static/media/GitHub-light.svg": "/mazen.portfolio/static/media/GitHub-light.e8a5f8c6.svg",
+    "static/media/Logo2.png": "/mazen.portfolio/static/media/Logo2.74c7727f.png",
+    "static/media/al.jpg": "/mazen.portfolio/static/media/al.dee9bf8c.jpg",
+    "static/media/bahrain.svg": "/mazen.portfolio/static/media/bahrain.f7d78738.svg",
+    "static/media/bgl.jpg": "/mazen.portfolio/static/media/bgl.b7ff67a1.jpg",
+    "static/media/dip.png": "/mazen.portfolio/static/media/dip.28d5c829.png",
+    "static/media/london.svg": "/mazen.portfolio/static/media/london.57a01dca.svg",
+    "static/media/newYork.svg": "/mazen.portfolio/static/media/newYork.d302ca15.svg"
+  }
+}
