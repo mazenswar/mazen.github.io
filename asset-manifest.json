@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mazen.portfolio/static/css/main.c4fd5ef2.chunk.css",
-    "main.js": "/mazen.portfolio/static/js/main.06508d15.chunk.js",
-    "main.js.map": "/mazen.portfolio/static/js/main.06508d15.chunk.js.map",
+    "main.css": "/mazen.portfolio/static/css/main.59e2bc33.chunk.css",
+    "main.js": "/mazen.portfolio/static/js/main.d43ff1f9.chunk.js",
+    "main.js.map": "/mazen.portfolio/static/js/main.d43ff1f9.chunk.js.map",
     "runtime~main.js": "/mazen.portfolio/static/js/runtime~main.66ee0805.js",
     "runtime~main.js.map": "/mazen.portfolio/static/js/runtime~main.66ee0805.js.map",
-    "static/js/2.70b0d40d.chunk.js": "/mazen.portfolio/static/js/2.70b0d40d.chunk.js",
-    "static/js/2.70b0d40d.chunk.js.map": "/mazen.portfolio/static/js/2.70b0d40d.chunk.js.map",
+    "static/js/2.ef0746a4.chunk.js": "/mazen.portfolio/static/js/2.ef0746a4.chunk.js",
+    "static/js/2.ef0746a4.chunk.js.map": "/mazen.portfolio/static/js/2.ef0746a4.chunk.js.map",
     "index.html": "/mazen.portfolio/index.html",
-    "precache-manifest.03f36a9e5d69fc83b0a986e42230a9bf.js": "/mazen.portfolio/precache-manifest.03f36a9e5d69fc83b0a986e42230a9bf.js",
+    "precache-manifest.53487d55f35088f87027916f0dcfde6d.js": "/mazen.portfolio/precache-manifest.53487d55f35088f87027916f0dcfde6d.js",
     "service-worker.js": "/mazen.portfolio/service-worker.js",
-    "static/css/main.c4fd5ef2.chunk.css.map": "/mazen.portfolio/static/css/main.c4fd5ef2.chunk.css.map",
-    "static/media/GitHub-light.svg": "/mazen.portfolio/static/media/GitHub-light.e8a5f8c6.svg",
+    "static/css/main.59e2bc33.chunk.css.map": "/mazen.portfolio/static/css/main.59e2bc33.chunk.css.map",
     "static/media/Logo2.png": "/mazen.portfolio/static/media/Logo2.74c7727f.png",
     "static/media/al.jpg": "/mazen.portfolio/static/media/al.dee9bf8c.jpg",
     "static/media/bahrain.svg": "/mazen.portfolio/static/media/bahrain.f7d78738.svg",
     "static/media/bgl.jpg": "/mazen.portfolio/static/media/bgl.b7ff67a1.jpg",
     "static/media/dip.png": "/mazen.portfolio/static/media/dip.28d5c829.png",
     "static/media/london.svg": "/mazen.portfolio/static/media/london.57a01dca.svg",
-    "static/media/newYork.svg": "/mazen.portfolio/static/media/newYork.d302ca15.svg"
+    "static/media/newYork.svg": "/mazen.portfolio/static/media/newYork.d302ca15.svg",
+    "static/media/rails-logo.jpg": "/mazen.portfolio/static/media/rails-logo.6d4b01f4.jpg"
   }
 }

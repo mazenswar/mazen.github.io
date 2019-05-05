@@ -1,27 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e42453722b60d5a091e801de88a359d5",
+    "revision": "aac9ea90b50852f01b9169d20a743274",
     "url": "/mazen.portfolio/index.html"
   },
   {
-    "revision": "245f7383f61b3c1bd727",
-    "url": "/mazen.portfolio/static/css/main.c4fd5ef2.chunk.css"
+    "revision": "a63b3fc8f6ef476adf65",
+    "url": "/mazen.portfolio/static/css/main.59e2bc33.chunk.css"
   },
   {
-    "revision": "ad24adeae11e8d067b61",
-    "url": "/mazen.portfolio/static/js/2.70b0d40d.chunk.js"
+    "revision": "b521616425e3343745c4",
+    "url": "/mazen.portfolio/static/js/2.ef0746a4.chunk.js"
   },
   {
-    "revision": "245f7383f61b3c1bd727",
-    "url": "/mazen.portfolio/static/js/main.06508d15.chunk.js"
+    "revision": "a63b3fc8f6ef476adf65",
+    "url": "/mazen.portfolio/static/js/main.d43ff1f9.chunk.js"
   },
   {
     "revision": "16a89ebc4e875e32b6ad",
     "url": "/mazen.portfolio/static/js/runtime~main.66ee0805.js"
-  },
-  {
-    "revision": "e8a5f8c66877260211d9e76ff9f2925f",
-    "url": "/mazen.portfolio/static/media/GitHub-light.e8a5f8c6.svg"
   },
   {
     "revision": "74c7727fba481eaeebb28bb1241428da",
@@ -50,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d302ca158b2edd62c80be8d45fcfb27f",
     "url": "/mazen.portfolio/static/media/newYork.d302ca15.svg"
+  },
+  {
+    "revision": "6d4b01f4f063002547fc741d43704188",
+    "url": "/mazen.portfolio/static/media/rails-logo.6d4b01f4.jpg"
   }
 ]);
